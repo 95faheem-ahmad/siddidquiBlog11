@@ -34,6 +34,6 @@ public class PostDto {
     }
 
     public void setTitle(String title) {
-        Title = title;
+       this.Title=title;
     }
 }
